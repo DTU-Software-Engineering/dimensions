@@ -13,6 +13,7 @@ Artifacts relating to SEMAT paper. http://semat.org/
 - fuzzy theoretical work to relate to other "theories of softeng"
 - how to objectively compare and measure processes and methods?
 - how to detect process/method smells and best/worst practices?
+- archive other artifacts on http://semat.org/?page_id=28
 
 # Week 1
 
