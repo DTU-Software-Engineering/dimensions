@@ -34,9 +34,14 @@ Artifacts relating to SEMAT paper. http://semat.org/
 
 ## Harald
 
-- investigate public samples of process and methodology artifacts
-  within MagicDraw universe to use as bootstrapping for case studies
-  in application of our theory
+Look into existing standards to plumb for document types so that we
+can make some claim to completeness.
+
+- http://en.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge
+- http://en.wikipedia.org/wiki/V_model
+- http://en.wikipedia.org/wiki/ISO/IEC_15504
+- http://en.wikipedia.org/wiki/ISO/IEC_12207
+- http://en.wikipedia.org/wiki/SWEBOK
 
 ## Hubert
 
