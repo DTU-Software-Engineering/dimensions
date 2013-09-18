@@ -14,6 +14,7 @@ Artifacts relating to SEMAT paper. http://semat.org/
 - how to objectively compare and measure processes and methods?
 - how to detect process/method smells and best/worst practices?
 - archive other artifacts on http://semat.org/?page_id=28
+- what is a "artifact"?
 
 # Week 1
 
@@ -51,12 +52,12 @@ can make some claim to completeness.
 # Week 2
 
 - figure out structure for presentation of categories and examples
-- reflect upon process (something more substantial than figure 2)
+- reflect upon primary processes (something more substantial than figure 2)
 
 ## Joe
 
 - analyze correctness-by-construction approach using different formal
-  methods
+  methods (DOD/FAA)
 
 # Week 3
 
