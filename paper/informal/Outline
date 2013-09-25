@@ -1,0 +1,22 @@
+Developing a Theory for Software Engineering:
+Intuitions, Observations, and Hypotheses
+
+Intuition
+	Lack of criteria when to use which method given some circumstances/constraints/context conditions
+	Goal: A theory on the level V of the Gregor-scale
+Observations
+	Ekkart's Dimensions (Bottom Up)
+	Harald's Conceptual Connection (Top Down)
+	Joe's Formal Framework (Whatever)
+	
+Hypotheses & Predictions
+	Being able to describe all (common) sw. development methods [what about "...all phenomena"?]
+	Anne: Having such a theory will help understand why/how methods work (or don't work)
+	Harald: Having such a theory will allow us to compare methods with each other, and thus will allow us to better choose a suitable one
+	Ekkart: Size/Distance of Artefacts ("Breadcrumbs")
+
+Outlook
+	Explore further existing sources (practitioners, experts, scientists,...literature, tools, ...) to contribute to building hypotheses
+	Develop Theory to greater comprehensiveness/detailedness
+	Operationalize hypotheses so they can be falsified/validated
+	
