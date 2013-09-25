@@ -14,6 +14,7 @@ Artifacts relating to SEMAT paper. http://semat.org/
 - how to objectively compare and measure processes and methods?
 - how to detect process/method smells and best/worst practices?
 - archive other artifacts on http://semat.org/?page_id=28
+- what is a "artifact"?
 
 # Week 1
 
@@ -34,9 +35,14 @@ Artifacts relating to SEMAT paper. http://semat.org/
 
 ## Harald
 
-- investigate public samples of process and methodology artifacts
-  within MagicDraw universe to use as bootstrapping for case studies
-  in application of our theory
+Look into existing standards to plumb for document types so that we
+can make some claim to completeness.
+
+- http://en.wikipedia.org/wiki/A_Guide_to_the_Project_Management_Body_of_Knowledge
+- http://en.wikipedia.org/wiki/V_model
+- http://en.wikipedia.org/wiki/ISO/IEC_15504
+- http://en.wikipedia.org/wiki/ISO/IEC_12207
+- http://en.wikipedia.org/wiki/SWEBOK
 
 ## Hubert
 
@@ -46,12 +52,12 @@ Artifacts relating to SEMAT paper. http://semat.org/
 # Week 2
 
 - figure out structure for presentation of categories and examples
-- reflect upon process (something more substantial than figure 2)
+- reflect upon primary processes (something more substantial than figure 2)
 
 ## Joe
 
 - analyze correctness-by-construction approach using different formal
-  methods
+  methods (DOD/FAA)
 
 # Week 3
 
